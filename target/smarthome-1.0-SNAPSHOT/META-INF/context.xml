@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/">
+    
+    <ResourceLink name="jdbc/smarthome"
+             global="jdbc/smarthome"
+              type="javax.sql.DataSource" />
+
+    <Resource   name="jdbc/smarthome" 
+                type="javax.sql.DataSource"
+                auth="Container" 
+                driverClassName="org.postgresql.Driver"
+                url="jdbc:postgresql://localhost:5432/smarthome"
+                username="postgres" 
+                password="" 
+                maxActive="8"
+                maxIdle="4"  />
+    
+    <ResourceLink name="jdbc/domotica1"
+             global="jdbc/domotica1"
+              type="javax.sql.DataSource" />
+
+    <Resource   name="jdbc/domotica1" 
+                type="javax.sql.DataSource"
+                auth="Container" 
+                driverClassName="org.postgresql.Driver"
+                url="jdbc:postgresql://localhost:5432/domotica1"
+                username="postgres" 
+                password="" 
+                maxActive="8"
+                maxIdle="4"  />
+</Context>
