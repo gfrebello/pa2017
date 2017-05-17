@@ -1,8 +1,8 @@
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/database/RoomDTO.java
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/database/BaseDAO.java
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/database/DeviceDAO.java
-/home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/controllers/PageHandler.java
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/controllers/RoomHandler.java
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/database/DeviceDTO.java
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/controllers/IndexHandler.java
+/home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/controllers/HomeHandler.java
 /home/gabriel/NetBeansProjects/smarthome/src/main/java/smarthome/database/RoomDAO.java

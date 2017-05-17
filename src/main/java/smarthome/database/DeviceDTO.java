@@ -23,7 +23,7 @@ public class DeviceDTO implements Serializable {
         this.id = id;
     }
     
-    public String RoomID() {
+    public String getRoomID() {
         return room_id;
     }
 

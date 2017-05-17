@@ -33,4 +33,7 @@ public class RoomDTO implements Serializable {
         devices.add(device);
     }
     
+    public void resetDevices() {
+        devices = new ArrayList<>();
+    }
 }

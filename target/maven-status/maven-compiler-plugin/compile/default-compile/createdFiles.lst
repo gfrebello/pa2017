@@ -1,0 +1,8 @@
+smarthome/controllers/RoomHandler.class
+smarthome/controllers/HomeHandler.class
+smarthome/database/BaseDAO.class
+smarthome/controllers/IndexHandler.class
+smarthome/database/DeviceDAO.class
+smarthome/database/RoomDAO.class
+smarthome/database/RoomDTO.class
+smarthome/database/DeviceDTO.class

@@ -10,7 +10,7 @@
       <a class="navbar-brand" href="#">CAD</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Controle de Automação Doméstica</a></li>
+      <li class="active"><a href="/home">Copacabana</a></li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Casa<span class="caret"></span></a>
         <ul class="dropdown-menu">
             <c:forEach items="${dto.getDevices()}" var="device">
